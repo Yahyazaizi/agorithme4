@@ -1,0 +1,26 @@
+algo ex14 
+Algorithme lage enfanta
+
+Variables N: entier
+
+Début
+
+Ecrire ("svp entrer l'âge de l'enfant: ")
+Lire (N)
+Si N >= 6 et N <= 7 Alors
+Ecrire ("La catégorie de l'enfant est Poussin")
+Sinon
+Si N >= 8 et N <= 9 Alors
+Ecrire ("La catégorie de l'enfant est Pupille")
+Sinon
+Si N >= 10 et N <= 11 Alors
+Ecrire ("La catégorie de l'enfant est Minime")
+Sinon
+Ecrire ("La catégorie de l'enfant est Cadet")
+fin Si
+
+fin Si
+
+fin Si
+
+Fin
